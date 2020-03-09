@@ -37,3 +37,8 @@ mvnw
 
 #target
 target/
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
