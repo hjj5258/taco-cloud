@@ -1,5 +1,0 @@
-com\example\tacocloud\domain\Taco.class
-com\example\tacocloud\domain\Ingredient.class
-com\example\tacocloud\domain\Ingredient$Type.class
-com\example\tacocloud\controller\DesignTacoController.class
-com\example\tacocloud\TacoCloudApplication.class
