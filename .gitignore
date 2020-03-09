@@ -23,13 +23,17 @@
 hs_err_pid*
 
 # idea
-.idea
+.idea/
 
 # mvn
-.mvn
+.mvn/
+mvnw
 
 #iml
-.iml
+*.iml
 
 #cmd
-.cmd
+*.cmd
+
+#target
+target/
